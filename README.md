@@ -1,2 +1,4 @@
-# cache_simulator
-cache_simulator
+# Cache_simulator
+
+- Workload - `gcc.trace`
+- Implementation - `csim.cpp`
